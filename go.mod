@@ -3,8 +3,8 @@ module github.com/phileagleson/go-treesitter-poweron
 go 1.21.0
 
 require (
-	github.com/smacker/go-tree-sitter v0.0.0-20230720070738-0d0a9f78d8f8
-	github.com/stretchr/testify v1.7.4
+	github.com/smacker/go-tree-sitter v0.0.0-20240827094217-dd81d9e9be82
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
